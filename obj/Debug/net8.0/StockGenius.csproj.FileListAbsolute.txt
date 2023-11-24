@@ -1,0 +1,15 @@
+C:\Users\friki\StockGenius\StockGenius\bin\Debug\net8.0\StockGenius.exe
+C:\Users\friki\StockGenius\StockGenius\bin\Debug\net8.0\StockGenius.deps.json
+C:\Users\friki\StockGenius\StockGenius\bin\Debug\net8.0\StockGenius.runtimeconfig.json
+C:\Users\friki\StockGenius\StockGenius\bin\Debug\net8.0\StockGenius.dll
+C:\Users\friki\StockGenius\StockGenius\bin\Debug\net8.0\StockGenius.pdb
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\StockGenius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\StockGenius.AssemblyInfoInputs.cache
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\StockGenius.AssemblyInfo.cs
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\StockGenius.csproj.CoreCompileInputs.cache
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\StockGenius.sourcelink.json
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\StockGenius.dll
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\refint\StockGenius.dll
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\StockGenius.pdb
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\StockGenius.genruntimeconfig.cache
+C:\Users\friki\StockGenius\StockGenius\obj\Debug\net8.0\ref\StockGenius.dll
