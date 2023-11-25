@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockGenius")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b85f163c8e80c2b1295f8dfc8517bbf6feb43ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4622ecda0683b1ad953da7d2fbdbcc51c3775a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockGenius")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockGenius")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
